@@ -5,7 +5,7 @@ const config = {
   name: 'mongoDatasource',
   connector: 'mongodb',
   //url: 'mongodb://vrangana:password@localhost:27017/todoDB',
-  url: 'mongodb://0.0.0.0:27017/todoDB',
+  url: 'mongodb://localhost:27017/todoDB',
   /*
   host: 'localhost',
   port: 27017,
